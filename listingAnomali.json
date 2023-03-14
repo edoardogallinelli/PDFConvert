@@ -1,0 +1,57 @@
+[
+    {
+        "title": "STORIA ANTICA",
+        "url": "http://172.18.2.171/raicultura/storia/articoli/2020/02/Storia-antica-5a6e638c-283c-48de-bd19-89be14714a64.html",
+        "uniqueName": "ContentItem-5a6e638c-283c-48de-bd19-89be14714a64",
+        "status": "Funge (br)"
+    },
+    {
+        "title": "STORIA MEDIEVALE",
+        "url": "http://172.18.2.171/raicultura/storia/articoli/2020/02/Storia-medievale-d487bc74-e53e-4248-b73c-e10e7865086a.html",
+        "uniqueName": "ContentItem-d487bc74-e53e-4248-b73c-e10e7865086a",
+        "status": "Funge (br)"
+    },
+    {
+        "title": "STORIA MODERNA",
+        "url": "http://172.18.2.171/raicultura/storia/articoli/2020/02/Storia-moderna-f81046fb-33e0-4677-af12-4f7ee210f6fb.html",
+        "uniqueName": "ContentItem-f81046fb-33e0-4677-af12-4f7ee210f6fb",
+        "status": "Funge (br)"
+    },
+    {
+        "title": "L’OTTOCENTO",
+        "url": "http://172.18.2.171/raicultura/storia/articoli/2020/02/LOttocento-ff8568fb-7582-4a87-881c-1152ec805dd6.html",
+        "uniqueName": "ContentItem-ff8568fb-7582-4a87-881c-1152ec805dd6",
+        "status": "Da Controllare (sostituiti HR non salgono)"
+    },
+    {
+        "title": "IL NOVENCENTO – DAL 1914 AL 1945",
+        "url": "http://172.18.2.171/raicultura/storia/articoli/2020/02/Il-Novecento---Dal-1914-al-1945-1d2488f4-d7ae-471c-b5fa-6dfa4a7e7038.html",
+        "uniqueName": "ContentItem-1d2488f4-d7ae-471c-b5fa-6dfa4a7e7038",
+        "status": "Distrutto e Fixato con i tag paragrafo"
+    },
+    
+    {
+        "title": "ARTE MODERNA",
+        "url": "http://172.18.2.171/raicultura/arte/articoli/2020/02/Arte-Moderna-7b3ef3c8-7f91-45f7-af8a-229d86b55f15.html",
+        "uniqueName": "ContentItem-7b3ef3c8-7f91-45f7-af8a-229d86b55f15",
+        "status": "Funge (br)"
+    },
+    {
+        "title": "PAESAGGIO E PATRIMONIO CULTURALE",
+        "url": "http://172.18.2.171/raicultura/arte/articoli/2020/02/Paesaggio-e-patrimonio-culturale-b60840c3-9268-4dd7-8053-1566f15ddfd4.html",
+        "uniqueName": "ContentItem-ee99c398-88ea-4a1b-aaad-78a13e29beb2",
+        "status": "Funge (fixato con p)"
+    },
+    {
+        "title": "I LUOGHI DEL PATRIMONIO CULTURALE ITALIANO",
+        "url": "http://172.18.2.171/raicultura/webdoc/luoghi-del-patrimonio-culturale-italiano/index.html",
+        "uniqueName": "ContentItem-67d7d2ed-ae21-4a02-bc74-507109937f8b",
+        "status": "Funge??"
+    },
+    {
+        "title": "ILTRECENTO",
+        "url": "http://172.18.2.171/raicultura/letteratura/articoli/2020/02/Trecento-6393b4c4-e00c-412e-9cf5-2335080bd3bd.html",
+        "uniqueName": "ContentItem-6393b4c4-e00c-412e-9cf5-2335080bd3bd",
+        "status": "Funge (br)"
+    },
+]
